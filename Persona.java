@@ -6,3 +6,9 @@ this.nombre = nombre;
 this.edad = edad;
 }
 //getters and setters
+public String getNombre(){
+return this.nombre;
+}
+public int getEdad(){
+return this.edad;
+}
